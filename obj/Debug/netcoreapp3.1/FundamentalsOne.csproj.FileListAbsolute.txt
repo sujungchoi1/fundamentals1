@@ -1,0 +1,12 @@
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/bin/Debug/netcoreapp3.1/FundamentalsOne.deps.json
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/bin/Debug/netcoreapp3.1/FundamentalsOne.runtimeconfig.json
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/bin/Debug/netcoreapp3.1/FundamentalsOne.runtimeconfig.dev.json
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/bin/Debug/netcoreapp3.1/FundamentalsOne.dll
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/bin/Debug/netcoreapp3.1/FundamentalsOne.pdb
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.csprojAssemblyReference.cache
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.AssemblyInfoInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.AssemblyInfo.cs
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.csproj.CoreCompileInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.dll
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.pdb
+/Users/sujungchoi/Desktop/Coding/C#/FundamentalsOne/obj/Debug/netcoreapp3.1/FundamentalsOne.genruntimeconfig.cache
